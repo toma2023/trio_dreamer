@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #FFFFFF;
+}
+
+.max-w-sm:hover .fa-heart {
+    opacity: 1;
+  }

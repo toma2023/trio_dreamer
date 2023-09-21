@@ -1,0 +1,116 @@
+[
+    {
+      "id": 1,
+      "name": "Amazfit GTR 2e Smart Watch",
+      "price": 199.99,
+      "description": [
+        "Advanced Fitness Tracking: Track your heart rate, sleep quality, and daily activities with precision.",
+        "Stylish Design: Elegant and comfortable design suitable for any occasion."
+      ],
+      "Category": "Electronics",
+      "sub-category": ["Wearable Tech", "Smart Watches"],
+     "submission_date": "2023-09-21",
+      "isTrending":true,
+      "picture": "https://i.ibb.co/qnRP4ZT/watch-6.webp"
+    },
+    {
+      "id": 2,
+      "name": "Haylou RT LS05S Smartwatch",
+      "price": 179.99,
+      "description": [
+        "AMOLED Display: Vivid and responsive AMOLED display for clear visuals.",
+        "Long Battery Life: Enjoy extended usage with a long-lasting battery."
+      ],
+      "Category": "Electronics",
+      "sub-category": ["Wearable Tech", "Smart Watches"],
+     "submission_date": "2023-05-08",
+      "isTrending": false,
+      "picture": "https://i.ibb.co/b70GC0j/belt.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fossil Men's Hybrid Smartwatch",
+      "price": 159.99,
+      "description": [
+        "Classic Design: A timeless watch design with modern smart features.",
+        "Notifications: Receive notifications for calls, messages, and more."
+      ],
+      "Category": "Fashion",
+      "sub-category": ["Wearable Tech", "Smart Watches"],
+     "submission_date": "2023-01-21",
+      "isTrending":true,
+      "picture": "https://i.ibb.co/KhNTKG3/watch-7.webp"
+    },
+    {
+      "id": 4,
+      "name": "Garmin Forerunner 245 Music",
+      "price": 299.99,
+      "description": [
+        "Music Playback: Store and play music directly from your watch.",
+        "GPS Tracking: Accurate GPS tracking for your outdoor activities."
+      ],
+      "Category": "Sports & Fitness",
+      "sub-category": ["Wearable Tech", "Smart Watches"],
+     "submission_date": "2023-02-21",
+      "isTrending": true,
+      "picture": "https://i.ibb.co/mcBcgBL/watch-4.webp"
+    },
+    {
+      "id": 5,
+      "name": "Casio G-Shock Rangeman GW9400-1",
+      "price": 249.99,
+      "description": [
+        "Rugged Durability: Built to withstand tough conditions and outdoor adventures.",
+        "Solar Powered: Powered by solar energy for uninterrupted use."
+      ],
+      "Category": "Sports & Fitness",
+      "sub-category": ["Wearable Tech", "Rugged Watches"],
+     "submission_date": "2023-05-21",
+      "isTrending": true,
+      "picture": "https://i.ibb.co/mcBcgBL/watch-4.webp"
+    },
+    {
+      "id": 6,
+      "name": "Apple Watch Series 7",
+      "price": 349.99,
+      "description": [
+        "Large Display: Enjoy a larger and more immersive Retina display.",
+        "Health Features: Monitor your health with ECG and blood oxygen measurements."
+      ],
+      "Category": "Electronics",
+      "sub-category": ["Wearable Tech", "Smart Watches"],
+     "submission_date": "2023-08-21",
+      "isTrending": false,
+      "picture": "https://i.ibb.co/XYDgrRz/watch-1.webp"
+    },
+    {
+      "id": 7,
+      "name": "Rolex Submariner",
+      "price": 9999.99,
+      "description": [
+        "Iconic Luxury: The Rolex Submariner is a symbol of luxury and precision.",
+        "Waterproof: Dive with confidence with its waterproof design."
+      ],
+      "Category": "Fashion",
+      "sub-category": ["Luxury Watches"],
+     "submission_date": "2023-06-21",
+      "isTrending": false,
+      "picture": "https://i.ibb.co/XYDgrRz/watch-1.webp"
+    },
+    {
+      "id": 8,
+      "name": "Seiko SKX007 Diver's Watch",
+      "price": 299.99,
+      "description": [
+        "Dive Watch: Designed for divers with water resistance and rotating bezel.",
+        "Reliable Movement: Equipped with a reliable automatic movement."
+      ],
+      "Category": "Fashion",
+      "sub-category": ["Diver's Watches"],
+     "submission_date": "2023-03-03",
+      "isTrending": false,
+      "picture": "https://i.ibb.co/XYDgrRz/watch-1.webp"
+    }
+   
+  ]
+  
