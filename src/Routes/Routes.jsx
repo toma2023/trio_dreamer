@@ -7,6 +7,7 @@ import Upcoming from "../Pages/Upcoming/Upcoming";
 import PreOrder from "../Pages/Preorder/Preorder";
 import VideoGallery from "../Pages/VideoGallery/VideoGallery";
 import Affiliate from "../Pages/Affiliate/Affiliate";
+import SingleProduct from "../Pages/SingleProduct/SingleProduct";
 
 export const router = createBrowserRouter([
   {
@@ -41,6 +42,12 @@ export const router = createBrowserRouter([
         path: "/affiliate",
         element: <Affiliate/>,
       },
+      {
+        path: "/singleProduct/:id",
+        element: <SingleProduct/>
+      },
+
+
     ],
   },
 ]);

@@ -69,9 +69,9 @@ const AuthProvider = ({ children }) => {
  
 
   useEffect(() => {
-    fetch("http://localhost:5000/allProducts")
+    fetch("http://localhost:5000/latest_products")
       .then((res) => res.json())
-      .then((data) => setProducts(data));
+      .then((data) => setLatestProducts(data));
   }, []);
 
 
@@ -86,7 +86,8 @@ const AuthProvider = ({ children }) => {
         googleSignIn,
         logOut,
         updateUserProfile ,
-        products  
+        products  ,
+        latestProducts
   };
 
   return (
